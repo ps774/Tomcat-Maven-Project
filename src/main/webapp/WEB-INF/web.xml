@@ -45,7 +45,7 @@
 		<role-name>client</role-name>
 	</security-role>
 	<security-role>
-		<role-name>staff1</role-name>
+		<role-name>staff</role-name>
 	</security-role>
 
 </web-app>
