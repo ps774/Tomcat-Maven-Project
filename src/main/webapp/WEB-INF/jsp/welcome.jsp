@@ -13,7 +13,7 @@
 			<h1 style="text-align: center;padding-top: 150px;">${req_msg}</h1>
 		</c:if>
 		<c:if test="${empty req_msg}">
-			<h1 style="text-align: center;padding-top: 150px;">Welcome to the bank!</h1>
+			<h1 style="text-align: center;padding-top: 150px;">Welcome to the Suresh bank!</h1>
 		</c:if>
 		<c:remove var="req_msg" scope="session" /> 
 	</div>
