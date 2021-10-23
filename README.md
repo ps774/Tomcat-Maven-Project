@@ -1,4 +1,4 @@
-# SUTD-bank Webapp:suresh
+# SUTD-bank Webapp
 
 Contents
 
